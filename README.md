@@ -1,2 +1,2 @@
 # demoblaze
-Test automaton from the Demoblaze application by using Playwright with TypeScript
+Test automation from the Demoblaze application by using Playwright with TypeScript
